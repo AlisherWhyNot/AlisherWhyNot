@@ -2,6 +2,7 @@
 ## I'm backend developer, here you can see what I can do!
 ## I'm Python user
 <p><img src="https://simpleicons.org/icons/python.svg" alt="Python", width="50", height="50"></p>
+| what i can      |  |
 | ----------- | ----------- |
 | Django | <p><img src="https://simpleicons.org/icons/django.svg" alt="Python", width="50", height="50"></p> |
 | Sqlite | <p><img src="https://simpleicons.org/icons/sqlite.svg" alt="Python", width="50", height="50"></p> |
