@@ -1,4 +1,4 @@
-<p><img src="https://simpleicons.org/icons/python.svg" alt="Python"></p>
+<p><img src="https://simpleicons.org/icons/python.svg" alt="Python", width="500", height="500"></p>
 
 
 
