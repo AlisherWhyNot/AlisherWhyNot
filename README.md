@@ -1,4 +1,4 @@
-![alt text](https://simpleicons.org/icons/python.svg)
+![alt text](<img src="path/to/screenshot.png" width="500"> https://simpleicons.org/icons/python.svg)
 
 
 
