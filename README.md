@@ -1,5 +1,4 @@
-[alt text](https://simpleicons.org/icons/python.svg)
-
+![alt text](https://simpleicons.org/icons/python.svg)
 
 
 
