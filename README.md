@@ -8,12 +8,16 @@
 <p><img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/python.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/django.svg" alt="Python", width="50", height="50"></p>
+<p><img src="https://simpleicons.org/icons/html5.svg" alt="Python", width="50", height="50"></p>
+<p><img src="https://simpleicons.org/icons/css3.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/postgresql.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/sqlite.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/docker.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/github.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/git.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/windows10.svg" alt="Python", width="50", height="50"></p>
+<p><img src="https://simpleicons.org/icons/windowsterminal.svg" alt="Python", width="50", height="50"></p>
+<p><img src="https://github.com/AlisherWhyNot/AlisherWhyNot/assets/123771217/ea7611a4-6e9d-4e9c-9aab-103caaf72233" alt="Python", width="50", height="50"></p>
 <!--### Hi there 👋-->
 
 <!--
