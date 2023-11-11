@@ -8,6 +8,7 @@
 <p><img src="https://simpleicons.org/icons/python.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/django.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/postgresql.svg" alt="Python", width="50", height="50"></p>
+<p><img src="https://simpleicons.org/icons/docker.svg" alt="Python", width="50", height="50"></p>
 <!--### Hi there 👋-->
 
 <!--
