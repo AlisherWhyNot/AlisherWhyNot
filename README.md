@@ -2,7 +2,7 @@
 ### I am junior backend developer.
 ### I am Python user, I use Django in my projects.
 ### I can speak russian and english.
-###
+
 ### 🚥
 ### You can see, what i can do!
 <p align="left">
