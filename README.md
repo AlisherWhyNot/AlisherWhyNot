@@ -17,7 +17,7 @@
 <p><img src="https://simpleicons.org/icons/git.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/windows10.svg" alt="Python", width="50", height="50"></p>
 <p><img src="https://simpleicons.org/icons/windowsterminal.svg" alt="Python", width="50", height="50"></p>
-###
+### U can write me in (Telegram)[...]
 <p><img src="https://github.com/AlisherWhyNot/AlisherWhyNot/assets/123771217/ea7611a4-6e9d-4e9c-9aab-103caaf72233" alt="Python", width="35", height="35"></p>
 <!--### Hi there 👋-->
 
