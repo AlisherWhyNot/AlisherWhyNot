@@ -3,7 +3,7 @@
 ### I am Python user, I use Django in my projects.
 ### I can speak russian and english.
 ###
-###🚥
+### 🚥
 ### You can see, what i can do!
 <p align="left">
   <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="Vscode" width="50" height="50">
@@ -11,9 +11,9 @@
   <img src="https://simpleicons.org/icons/django.svg" alt="django" width="50" height="50">
   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="50">
   <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="50" height="50">
-  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" width="50" height="50">
 </p>
 <p align="left">
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" width="50" height="50">
   <img src="https://simpleicons.org/icons/sqlite.svg" alt="sqlite" width="50" height="50">
   <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="50" height="50">
   <img src="https://simpleicons.org/icons/github.svg" alt="github" width="50" height="50">
