@@ -1,5 +1,11 @@
-
-
+## Hello, Im Alisher!
+### I am junior backend developer.
+### I am Python user, I use Django in my projects.
+### I can speak russian and english.
+###
+###
+### You can see, what i can do!
+<p><img src="https://www.flaticon.com/ru/free-icon/python_1822920" alt="Python", width="50", height="50"></p>
 <!--### Hi there 👋-->
 
 <!--
