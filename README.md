@@ -6,7 +6,7 @@
 ###
 ### You can see, what i can do!
 <p><img src="https://simpleicons.org/icons/python.svg" alt="Python", width="50", height="50"></p> 
-<p><img src="https://www.flaticon.com/ru/free-icon/python_1822920" alt="Python", width="50", height="50"></p>
+<!-- <p><img src="https://www.flaticon.com/ru/free-icon/python_1822920" alt="Python", width="50", height="50"></p> -->
 <!--### Hi there 👋-->
 
 <!--
