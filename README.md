@@ -3,7 +3,7 @@
 ### I am Python user, I use Django in my projects.
 ### I can speak russian and english.
 
-### ✉
+### 
 ### You can see, what i can do!
 <p align="left">
   <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="Vscode" width="50" height="50">
