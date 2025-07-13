@@ -1,7 +1,7 @@
-## Hello, Im Alisher!🏀
+## Hello there!🏀
 ### I am junior backend developer.
-### I am Python user, I use Django in my projects.
-### I can speak russian and english.
+### Python user, I use Django in my projects.
+### I can speak Russian, English. Spanish and German also.
 <!--
 ### 
 ### You can see, what i can do!
